@@ -1,7 +1,5 @@
 ### Hi there 👋
 https://github.com/shivpaulraj/Documents
-
-Thanks
 edit from local
 Test from reomte
 <!--
